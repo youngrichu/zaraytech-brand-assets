@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="113.32" y1="319.53" x2="687.06" y2="319.53" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#145f99"/>
+      <stop offset="1" stop-color="#04113d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="112.94" y1="478.23" x2="686.68" y2="478.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58b27c"/>
+      <stop offset="1" stop-color="#06153c"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-1" points="113.32 321.13 145.32 368.43 200.88 368.43 256.83 286.5 296.08 229.02 516.85 229.02 537.43 259.14 518.57 286.5 462.1 368.43 418.99 430.98 365.47 508.62 460.82 509.03 514.32 431.39 557.73 368.43 641.79 368.43 687.06 302.74 675.97 286.5 645.22 241.48 636.71 229.02 597.63 171.8 569.12 130.04 452.76 130.04 450.99 132.58 449.25 130.04 243.82 130.04 176.23 229.02 136.96 286.5 113.32 321.13"/>
+  <polygon class="cls-2" points="112.94 497.2 119.94 507.56 154.56 558.72 161.71 569.28 200.49 626.61 228.87 668.55 255.16 668.67 348.73 669.07 350.5 669.08 434.31 669.44 554.17 669.96 622.19 571.27 664.48 509.91 686.68 477.7 655.47 432.01 598.13 431.75 544.63 509.39 502.33 570.76 418.52 570.39 323.18 569.98 281.57 569.8 261.07 539.52 282.81 508.26 336.82 430.63 380.09 368.43 437.08 286.5 343.92 286.5 286.93 368.43 243.94 430.23 186.97 429.98 158.93 429.87 112.94 497.2"/>
+</svg>
